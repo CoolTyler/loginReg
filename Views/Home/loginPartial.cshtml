@@ -1,0 +1,13 @@
+@model loginRegistration.Models.User
+<fieldset>
+        <legend>Login</legend>
+        <form asp-controller="Home" asp-action="Login" method="post">
+        <p><label asp-for="email">Email</label></p>
+        <p><input asp-for="email"/></p>
+        <span asp-validation-for="email"></span>
+        <p><label asp-for="password">Password</label></p>
+        <p><input asp-for="password"/></p>
+        <span asp-validation-for="password"></span>
+        <input class="btn btn-pop" type="submit" name="submit" value="Login">
+        </form>
+</fieldset>

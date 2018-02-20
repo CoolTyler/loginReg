@@ -1,0 +1,10 @@
+C:\Users\tberg\Dropbox\CD\csharp\ASP_i\logreg\loginRegistration\bin\Debug\netcoreapp2.0\loginRegistration.deps.json
+C:\Users\tberg\Dropbox\CD\csharp\ASP_i\logreg\loginRegistration\bin\Debug\netcoreapp2.0\loginRegistration.runtimeconfig.json
+C:\Users\tberg\Dropbox\CD\csharp\ASP_i\logreg\loginRegistration\bin\Debug\netcoreapp2.0\loginRegistration.runtimeconfig.dev.json
+C:\Users\tberg\Dropbox\CD\csharp\ASP_i\logreg\loginRegistration\bin\Debug\netcoreapp2.0\loginRegistration.dll
+C:\Users\tberg\Dropbox\CD\csharp\ASP_i\logreg\loginRegistration\bin\Debug\netcoreapp2.0\loginRegistration.pdb
+C:\Users\tberg\Dropbox\CD\csharp\ASP_i\logreg\loginRegistration\obj\Debug\netcoreapp2.0\loginRegistration.csproj.CoreCompileInputs.cache
+C:\Users\tberg\Dropbox\CD\csharp\ASP_i\logreg\loginRegistration\obj\Debug\netcoreapp2.0\loginRegistration.AssemblyInfoInputs.cache
+C:\Users\tberg\Dropbox\CD\csharp\ASP_i\logreg\loginRegistration\obj\Debug\netcoreapp2.0\loginRegistration.AssemblyInfo.cs
+C:\Users\tberg\Dropbox\CD\csharp\ASP_i\logreg\loginRegistration\obj\Debug\netcoreapp2.0\loginRegistration.dll
+C:\Users\tberg\Dropbox\CD\csharp\ASP_i\logreg\loginRegistration\obj\Debug\netcoreapp2.0\loginRegistration.pdb
