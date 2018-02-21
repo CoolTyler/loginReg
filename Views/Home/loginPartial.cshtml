@@ -1,13 +1,13 @@
-@model loginRegistration.Models.User
+@model loginRegistration.Models.LoginViewModel
 <fieldset>
         <legend>Login</legend>
         <form asp-controller="Home" asp-action="Login" method="post">
-        <p><label asp-for="email">Email</label></p>
-        <p><input asp-for="email"/></p>
-        <span asp-validation-for="email"></span>
-        <p><label asp-for="password">Password</label></p>
-        <p><input asp-for="password"/></p>
-        <span asp-validation-for="password"></span>
+        <p><label asp-for="logEmail">Email</label></p>
+        <p><input asp-for="logEmail"/></p>
+        <span asp-validation-for="logEmail"></span>
+        <p><label asp-for="logPassword">Password</label></p>
+        <p><input asp-for="logPassword"/></p>
+        <p><span asp-validation-for="logPassword"></span></p>
         <input class="btn btn-pop" type="submit" name="submit" value="Login">
         </form>
 </fieldset>
