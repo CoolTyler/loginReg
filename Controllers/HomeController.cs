@@ -55,7 +55,7 @@ namespace loginRegistration.Controllers
                     };
                     _context.Add(newUser);
                     _context.SaveChanges();
-                    HttpContext.Session.SetObjectAsJson("currentUser", currentUser);
+                    HttpContext.Session.SetObjectAsJson("currentUser", newUser);
                     return RedirectToAction("Success");
                 }else{
                     ViewBag.errors = ModelState.Values;
